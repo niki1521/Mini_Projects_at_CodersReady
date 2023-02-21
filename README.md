@@ -18,3 +18,42 @@
 - We use ("for loop") for mutiple file handling
 - We used ("for loop") for sorting and arranging data in order and avoid scatterness of the plot.
 - Adding titles and lables to plot the graph in python by using different colors.
+
+# Mini Project 02
+## Plotting United_States_COVID-19_Cases_and_Deaths_by_State_over_Time with best fit curves.
+### Objective:
+- EDA
+- Curve fitting
+### Conclusion:
+- Applying an random exponential distribution fit to a histogram.
+- We have learned how to fit postioned centre of the bins. Graph is plotted with align on the edges with color. Also we had learned how to fit best curves.
+- We used pandas for biuld uping the Data Frame. We used arrays for total no. of cases.
+- We used fitting function and plotting.
+
+# Mini Project 03
+## Exploring the Data Sets of Hotel bookings
+### Objectives:
+- Understanding concepts of exploratory data analysis.
+-  Commands required for exploratory data analysis
+
+### Conclusion:
+- We learned how to explore data sets.
+- We had sorted null values from country, agent and company.
+- Among these 2 categories "City Hotel" have more booking than "Resort Hotel" throughout the year.
+- More values of hotel bookings are from City Hotel-79330 and Resort Hotel-40060
+- On average Customer mainly prefers "Resort Hotel" for weekend night stays than "City Hotel".
+- During weekdays also on average customer prefers "Resort Hotel" than "City Hotel" for night stays.
+
+# Mini Project 04
+# Titanic Survivors Data Exploration and Visualization
+### Objective:
+- Understanding concepts of exploratory data analysis.
+- Tools and commands required for exploratory data analysis.
+
+### Conclusion:
+- Titanic survivals: We had sorted null values from this data Age, cabin and Embarked.
+- We had plotted the bar graph in that females had survived more than male.
+- More passenger survived who were travelling alone than those travelling with friends or family.
+- In titanic the count of male is more and females are less.
+- We had sorted the alone persons are more than Families. Cherbourg, Queenstown, Southampton are embarked and survived more in Titanic.
+- Maximum passengers who survived are 1st Class females while the least are 3rd class males.
