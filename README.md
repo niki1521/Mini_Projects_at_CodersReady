@@ -1,4 +1,5 @@
 # Mini_Projects_at_CodersReady
+# Mini Project 01
 ## Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
 ### Objective:
 
